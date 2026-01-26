@@ -16,7 +16,7 @@ Acesso ao projeto➡️ Apenas um browser é suficiente para colocar esse códig
 
 Tecnologias utilizadas➡️ HTML, CSS, Javascript + Visual Studio Code.
 
-Desenvolvedor do projeto➡️ Dev D.
+Desenvolvedor do projeto➡️ D.Renato.
 
 <img loading="lazy" src="https://github.com/user-attachments/assets/119a897e-7c73-45c6-ad67-28e3e766b1a2" width="20%">
 
