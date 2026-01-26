@@ -10,7 +10,7 @@ Descrição do projeto➡️ Interação de Javascript com HTML e CSS, com foco 
 
 Funcionalidades do projeto➡️ Ao clicar em "Alugar' ou "Devolver", o Javascript interage com o CSS, fazendo com que o background das imagens dos jogos seja alterado para o modo opaco, assim como os botões mudam de cor e de nome conforme a disponibilidade dos jogos. Template strings foram criadas para otimizar o uso das variáveis, e o condicional if para confirmar a devolução dos jogos.
 
-[Vídeo de demonstração](https://github.com/user-attachments/assets/f8f7a50b-8a79-4bcf-9fcd-9b72e010edfb)
+[Vídeo de demonstração](https://github.com/user-attachments/assets/16d4a66f-8b23-4fce-ab96-8bc9510ee61e)
 
 Acesso ao projeto➡️ Apenas um browser é suficiente para colocar esse código em execução, bastando acionar o arquivo index.html.
 
